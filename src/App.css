@@ -1,0 +1,26 @@
+/* App.css */
+
+/* Global styles can go here */
+body {
+  font-family: Arial, sans-serif;
+  background-color: black;
+  color: white;
+}
+
+/* Styles specific to the App component */
+.App {
+  text-align: center;
+}
+
+.header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+.content {
+  padding: 20px;
+}
+
+
+
